@@ -1,0 +1,1521 @@
+[
+  {
+    "name": "Акмолинская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Акколь (Аккольский р-н)",
+        "city": "akkol_akkolskii_r-n",
+        "popular": false
+      },
+      {
+        "name": "Аршалы",
+        "city": "arshaly",
+        "popular": false
+      },
+      {
+        "name": "Астраханка",
+        "city": "astraxanka",
+        "popular": false
+      },
+      {
+        "name": "Атбасар",
+        "city": "atbasar",
+        "popular": false
+      },
+      {
+        "name": "Балкашино",
+        "city": "balkashino",
+        "popular": false
+      },
+      {
+        "name": "Бестобе",
+        "city": "bestobe",
+        "popular": false
+      },
+      {
+        "name": "Боровое",
+        "city": "borovoe",
+        "popular": false
+      },
+      {
+        "name": "Державинск",
+        "city": "derjavinsk",
+        "popular": false
+      },
+      {
+        "name": "Джалтыр",
+        "city": "dzhaltyr",
+        "popular": false
+      },
+      {
+        "name": "Егиндыколь",
+        "city": "egindykol",
+        "popular": false
+      },
+      {
+        "name": "Ерейментау",
+        "city": "ereimentau",
+        "popular": false
+      },
+      {
+        "name": "Есиль",
+        "city": "esil",
+        "popular": false
+      },
+      {
+        "name": "Жаксы",
+        "city": "jaksy",
+        "popular": false
+      },
+      {
+        "name": "Зеренда",
+        "city": "zerenda",
+        "popular": false
+      },
+      {
+        "name": "Кабанбай батыра (Целиноградский р-н)",
+        "city": "kabanbai_batyra_celinogradskii_r-n",
+        "popular": false
+      },
+      {
+        "name": "Кокшетау",
+        "city": "kokshetau",
+        "popular": false
+      },
+      {
+        "name": "Коргалжын",
+        "city": "korgaljyn",
+        "popular": false
+      },
+      {
+        "name": "Макинск",
+        "city": "makinsk",
+        "popular": false
+      },
+      {
+        "name": "Мамай",
+        "city": "mamai",
+        "popular": false
+      },
+      {
+        "name": "Новомарковка",
+        "city": "novomarkovka",
+        "popular": false
+      },
+      {
+        "name": "Нур-Султан (Астана)",
+        "city": "nur-sultan",
+        "popular": true
+      },
+      {
+        "name": "Степногорск",
+        "city": "stepnogorsk",
+        "popular": false
+      },
+      {
+        "name": "Степняк",
+        "city": "stepnyak",
+        "popular": false
+      },
+      {
+        "name": "Талапкер",
+        "city": "talapker",
+        "popular": false
+      },
+      {
+        "name": "Шантобе",
+        "city": "shantobe",
+        "popular": false
+      },
+      {
+        "name": "Шортанды",
+        "city": "shortandy",
+        "popular": false
+      },
+      {
+        "name": "Щучинск",
+        "city": "shuchinsk",
+        "popular": false
+      }
+    ]
+  },
+  {
+    "name": "Актюбинская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Акраб",
+        "city": "akrab",
+        "popular": false
+      },
+      {
+        "name": "Актобе",
+        "city": "aktobe",
+        "popular": false
+      },
+      {
+        "name": "Алга",
+        "city": "alga",
+        "popular": false
+      },
+      {
+        "name": "Бадамша",
+        "city": "badamsha",
+        "popular": false
+      },
+      {
+        "name": "Байганин",
+        "city": "baiganin",
+        "popular": false
+      },
+      {
+        "name": "Иргиз",
+        "city": "irgiz",
+        "popular": false
+      },
+      {
+        "name": "Кандыагаш",
+        "city": "kandyagash",
+        "popular": false
+      },
+      {
+        "name": "Кенкияк",
+        "city": "kenkijak",
+        "popular": false
+      },
+      {
+        "name": "Комсомольское",
+        "city": "komsomolskoe",
+        "popular": false
+      },
+      {
+        "name": "Мартук",
+        "city": "martuk",
+        "popular": false
+      },
+      {
+        "name": "Темир",
+        "city": "temir",
+        "popular": false
+      },
+      {
+        "name": "Уил",
+        "city": "uil",
+        "popular": false
+      },
+      {
+        "name": "Хобда",
+        "city": "xobda",
+        "popular": false
+      },
+      {
+        "name": "Хромтау",
+        "city": "xromtau",
+        "popular": false
+      },
+      {
+        "name": "Шалкар",
+        "city": "shalkar",
+        "popular": false
+      },
+      {
+        "name": "Шубаркудук",
+        "city": "shubarkuduk",
+        "popular": false
+      },
+      {
+        "name": "Эмба",
+        "city": "emba",
+        "popular": false
+      }
+    ]
+  },
+  {
+    "name": "Алматинская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Алматы",
+        "city": "almaty",
+        "popular": true
+      },
+      {
+        "name": "Ащибулак",
+        "city": "ashhibulak",
+        "popular": false
+      },
+      {
+        "name": "Байсерке",
+        "city": "bayserke",
+        "popular": false
+      },
+      {
+        "name": "Байтерек",
+        "city": "bajterek",
+        "popular": false
+      },
+      {
+        "name": "Баканас",
+        "city": "bakanas",
+        "popular": false
+      },
+      {
+        "name": "Балпык би",
+        "city": "balpyk_bi",
+        "popular": false
+      },
+      {
+        "name": "Бесагаш",
+        "city": "besagash",
+        "popular": false
+      },
+      {
+        "name": "Боралдай",
+        "city": "boroldaj",
+        "popular": false
+      },
+      {
+        "name": "Есик",
+        "city": "esik",
+        "popular": false
+      },
+      {
+        "name": "Жалкамыс",
+        "city": "zhalkamys",
+        "popular": false
+      },
+      {
+        "name": "Жансугуров",
+        "city": "jansugurov",
+        "popular": false
+      },
+      {
+        "name": "Жаркент",
+        "city": "jarkent",
+        "popular": false
+      },
+      {
+        "name": "Жетиген",
+        "city": "zhetigen",
+        "popular": false
+      },
+      {
+        "name": "Иргели",
+        "city": "irgeli",
+        "popular": false
+      },
+      {
+        "name": "Кабанбай (Алакольский р-н)",
+        "city": "kabanbai_alakolskii_r-n",
+        "popular": false
+      },
+      {
+        "name": "Капал",
+        "city": "kapal",
+        "popular": false
+      },
+      {
+        "name": "Капшагай",
+        "city": "kapchagai",
+        "popular": false
+      },
+      {
+        "name": "Карабулак (Ескельдинский р-н)",
+        "city": "karabulak_eskeldinskii_r-n",
+        "popular": false
+      },
+      {
+        "name": "Каскелен",
+        "city": "kaskelen",
+        "popular": false
+      },
+      {
+        "name": "Кеген",
+        "city": "kegen",
+        "popular": false
+      },
+      {
+        "name": "Кендала",
+        "city": "kendala",
+        "popular": false
+      },
+      {
+        "name": "Когалы",
+        "city": "kogaly",
+        "popular": false
+      },
+      {
+        "name": "Кызылту",
+        "city": "kyzyltu",
+        "popular": false
+      },
+      {
+        "name": "Кыргауылды",
+        "city": "kirgauildy",
+        "popular": false
+      },
+      {
+        "name": "Лепсы",
+        "city": "lepsy",
+        "popular": false
+      },
+      {
+        "name": "Нарынкол",
+        "city": "narynkol",
+        "popular": false
+      },
+      {
+        "name": "Отеген-Батыр",
+        "city": "otegen_batyra",
+        "popular": false
+      },
+      {
+        "name": "Сарканд",
+        "city": "sarkand",
+        "popular": false
+      },
+      {
+        "name": "Сарыозек",
+        "city": "saryozek",
+        "popular": false
+      },
+      {
+        "name": "Талап",
+        "city": "talap",
+        "popular": false
+      },
+      {
+        "name": "Талгар",
+        "city": "talgar",
+        "popular": false
+      },
+      {
+        "name": "Талдыкорган",
+        "city": "taldykorgan",
+        "popular": false
+      },
+      {
+        "name": "Текели",
+        "city": "tekeli",
+        "popular": false
+      },
+      {
+        "name": "Узынагаш",
+        "city": "uzynagash",
+        "popular": false
+      },
+      {
+        "name": "Ушарал",
+        "city": "usharal",
+        "popular": false
+      },
+      {
+        "name": "Уштобе",
+        "city": "ushtobe",
+        "popular": false
+      },
+      {
+        "name": "Хоргос",
+        "city": "khorgos",
+        "popular": false
+      },
+      {
+        "name": "Чунджа",
+        "city": "chundja",
+        "popular": false
+      },
+      {
+        "name": "Шамалган",
+        "city": "shamalgan",
+        "popular": false
+      },
+      {
+        "name": "Шелек",
+        "city": "shelek",
+        "popular": false
+      }
+    ]
+  },
+  {
+    "name": "Атырауская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Аккыстау",
+        "city": "akkystau",
+        "popular": false
+      },
+      {
+        "name": "Атырау",
+        "city": "atyrau",
+        "popular": true
+      },
+      {
+        "name": "Ганюшкино",
+        "city": "ganushkino",
+        "popular": false
+      },
+      {
+        "name": "Доссор",
+        "city": "dossor",
+        "popular": false
+      },
+      {
+        "name": "Индерборский",
+        "city": "inderborskii",
+        "popular": false
+      },
+      {
+        "name": "Исатай",
+        "city": "isataj",
+        "popular": false
+      },
+      {
+        "name": "Кульсары",
+        "city": "kulsary",
+        "popular": false
+      },
+      {
+        "name": "Макат",
+        "city": "makat",
+        "popular": false
+      },
+      {
+        "name": "Махамбет",
+        "city": "maxambet",
+        "popular": false
+      },
+      {
+        "name": "Миялы",
+        "city": "miyaly",
+        "popular": false
+      }
+    ]
+  },
+  {
+    "name": "Восточно-Казахстанская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Акжар",
+        "city": "akjar",
+        "popular": false
+      },
+      {
+        "name": "Аксуат",
+        "city": "aksuat",
+        "popular": false
+      },
+      {
+        "name": "Алтай",
+        "city": "altay",
+        "popular": false
+      },
+      {
+        "name": "Аягоз",
+        "city": "ayagoz",
+        "popular": false
+      },
+      {
+        "name": "Баршатас",
+        "city": "barshatas",
+        "popular": false
+      },
+      {
+        "name": "Большая Владимировка",
+        "city": "bolshaya_vladimirovka",
+        "popular": false
+      },
+      {
+        "name": "Большенарымское",
+        "city": "bolshenarymskoe",
+        "popular": false
+      },
+      {
+        "name": "Бородулиха",
+        "city": "borodulixa",
+        "popular": false
+      },
+      {
+        "name": "Верхнеберезовский",
+        "city": "verhneberezovskij",
+        "popular": false
+      },
+      {
+        "name": "Георгиевка",
+        "city": "georgievka",
+        "popular": false
+      },
+      {
+        "name": "Глубокое",
+        "city": "glubokoe",
+        "popular": false
+      },
+      {
+        "name": "Жезкент",
+        "city": "zhezkent",
+        "popular": false
+      },
+      {
+        "name": "Зайсан",
+        "city": "zaisan",
+        "popular": false
+      },
+      {
+        "name": "Кайнар",
+        "city": "kainar",
+        "popular": false
+      },
+      {
+        "name": "Калбатау",
+        "city": "kalbatau",
+        "popular": false
+      },
+      {
+        "name": "Караул",
+        "city": "karaul",
+        "popular": false
+      },
+      {
+        "name": "Катон-Карагай",
+        "city": "katon-karagai",
+        "popular": false
+      },
+      {
+        "name": "Кокпекты",
+        "city": "kokpekty",
+        "popular": false
+      },
+      {
+        "name": "Курчатов",
+        "city": "kurchatov",
+        "popular": false
+      },
+      {
+        "name": "Курчум",
+        "city": "kurchum",
+        "popular": false
+      },
+      {
+        "name": "Маканчи",
+        "city": "makanchi",
+        "popular": false
+      },
+      {
+        "name": "Молодежный (Уланский р-н)",
+        "city": "molodejnyi_ulanskii_r-n",
+        "popular": false
+      },
+      {
+        "name": "Новая Шульба",
+        "city": "novaya_shulba",
+        "popular": false
+      },
+      {
+        "name": "Риддер",
+        "city": "ridder",
+        "popular": false
+      },
+      {
+        "name": "Самарское",
+        "city": "samarskoe",
+        "popular": false
+      },
+      {
+        "name": "Семей",
+        "city": "semei",
+        "popular": false
+      },
+      {
+        "name": "Серебрянск",
+        "city": "serebryansk",
+        "popular": false
+      },
+      {
+        "name": "Таврическое",
+        "city": "tavricheskoe",
+        "popular": false
+      },
+      {
+        "name": "Теректы",
+        "city": "terekty",
+        "popular": false
+      },
+      {
+        "name": "Урджар",
+        "city": "urdjar",
+        "popular": false
+      },
+      {
+        "name": "Усть-Каменогорск",
+        "city": "ust-kamenogorsk",
+        "popular": false
+      },
+      {
+        "name": "Шар",
+        "city": "shar",
+        "popular": false
+      },
+      {
+        "name": "Шемонаиха",
+        "city": "shemonaixa",
+        "popular": false
+      },
+      {
+        "name": "Шульбинск",
+        "city": "shulbinsk",
+        "popular": false
+      }
+    ]
+  },
+  {
+    "name": "Жамбылская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Акколь (Таласский р-н)",
+        "city": "akkol_talasskii_r-n",
+        "popular": false
+      },
+      {
+        "name": "Аса",
+        "city": "asa",
+        "popular": false
+      },
+      {
+        "name": "Бауыржана Момышулы",
+        "city": "bauyrjana_momyshuly",
+        "popular": false
+      },
+      {
+        "name": "Бурыл",
+        "city": "buryl",
+        "popular": false
+      },
+      {
+        "name": "Жанатас",
+        "city": "janatas",
+        "popular": false
+      },
+      {
+        "name": "Каратау",
+        "city": "karatau",
+        "popular": false
+      },
+      {
+        "name": "Кордай",
+        "city": "kordai",
+        "popular": false
+      },
+      {
+        "name": "Кулан",
+        "city": "kulan",
+        "popular": false
+      },
+      {
+        "name": "Мерке",
+        "city": "merke",
+        "popular": false
+      },
+      {
+        "name": "Мойынкум",
+        "city": "moiynkum",
+        "popular": false
+      },
+      {
+        "name": "Сарыкемер",
+        "city": "sarykemer",
+        "popular": false
+      },
+      {
+        "name": "Саудакент",
+        "city": "saudakent",
+        "popular": false
+      },
+      {
+        "name": "Тараз",
+        "city": "taraz",
+        "popular": false
+      },
+      {
+        "name": "Толе би",
+        "city": "tole_bi",
+        "popular": false
+      },
+      {
+        "name": "Шу",
+        "city": "shu",
+        "popular": false
+      }
+    ]
+  },
+  {
+    "name": "Западно-Казахстанская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Акжаик",
+        "city": "akjaik",
+        "popular": false
+      },
+      {
+        "name": "Аксай",
+        "city": "aksai",
+        "popular": false
+      },
+      {
+        "name": "Дарьинское",
+        "city": "darinskoe",
+        "popular": false
+      },
+      {
+        "name": "Жалпактал",
+        "city": "jalpaktal",
+        "popular": false
+      },
+      {
+        "name": "Жангала",
+        "city": "jangala",
+        "popular": false
+      },
+      {
+        "name": "Жанибек",
+        "city": "janibek",
+        "popular": false
+      },
+      {
+        "name": "Жымпиты",
+        "city": "jympity",
+        "popular": false
+      },
+      {
+        "name": "Казталовка",
+        "city": "kaztalovka",
+        "popular": false
+      },
+      {
+        "name": "Каратобе",
+        "city": "karatobe",
+        "popular": false
+      },
+      {
+        "name": "Переметное",
+        "city": "peremetnoe",
+        "popular": false
+      },
+      {
+        "name": "Сайхин",
+        "city": "saixin",
+        "popular": false
+      },
+      {
+        "name": "Тайпак",
+        "city": "taipak",
+        "popular": false
+      },
+      {
+        "name": "Таскала",
+        "city": "taskala",
+        "popular": false
+      },
+      {
+        "name": "Трекино",
+        "city": "trekino",
+        "popular": false
+      },
+      {
+        "name": "Уральск",
+        "city": "uralsk",
+        "popular": false
+      },
+      {
+        "name": "Федоровка (Теректинский р-н)",
+        "city": "fedorovka_terektinskii_r-n",
+        "popular": false
+      },
+      {
+        "name": "Чапаев",
+        "city": "chapaev",
+        "popular": false
+      },
+      {
+        "name": "Чингирлау",
+        "city": "chingirlau",
+        "popular": false
+      }
+    ]
+  },
+  {
+    "name": "Карагандинская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Абай (Абайский р-н)",
+        "city": "abai_abaiskii_r-n",
+        "popular": false
+      },
+      {
+        "name": "Агадырь",
+        "city": "agadyr",
+        "popular": false
+      },
+      {
+        "name": "Аксу-Аюлы",
+        "city": "aksu-auly",
+        "popular": false
+      },
+      {
+        "name": "Актогай (Актогайский район)",
+        "city": "aktogai-karagandinskaya-oblast",
+        "popular": false
+      },
+      {
+        "name": "Атасу",
+        "city": "atasu",
+        "popular": false
+      },
+      {
+        "name": "Балхаш",
+        "city": "balxash",
+        "popular": false
+      },
+      {
+        "name": "Ботакара",
+        "city": "botakara",
+        "popular": false
+      },
+      {
+        "name": "Габидена Мустафина",
+        "city": "gabidena_mustafina",
+        "popular": false
+      },
+      {
+        "name": "Егиндыбулак",
+        "city": "egindybulak",
+        "popular": false
+      },
+      {
+        "name": "Жайрем",
+        "city": "jairem",
+        "popular": false
+      },
+      {
+        "name": "Жарык",
+        "city": "jaryk",
+        "popular": false
+      },
+      {
+        "name": "Жезды",
+        "city": "jezdy",
+        "popular": false
+      },
+      {
+        "name": "Жезказган",
+        "city": "jezkazgan",
+        "popular": false
+      },
+      {
+        "name": "Караганда",
+        "city": "karaganda",
+        "popular": true
+      },
+      {
+        "name": "Каражал",
+        "city": "karajal",
+        "popular": false
+      },
+      {
+        "name": "Каркаралинск",
+        "city": "karkaralinsk",
+        "popular": false
+      },
+      {
+        "name": "Кенгирское",
+        "city": "kengir",
+        "popular": false
+      },
+      {
+        "name": "Киевка",
+        "city": "kievka",
+        "popular": false
+      },
+      {
+        "name": "Молодежное (Осакаровский р-н)",
+        "city": "molodejnoe_osakarovskii_r-n",
+        "popular": false
+      },
+      {
+        "name": "Осакаровка",
+        "city": "osakarovka",
+        "popular": false
+      },
+      {
+        "name": "Приозерск",
+        "city": "priozersk",
+        "popular": false
+      },
+      {
+        "name": "Сарань",
+        "city": "saran",
+        "popular": false
+      },
+      {
+        "name": "Сарышаган",
+        "city": "saryshagan",
+        "popular": false
+      },
+      {
+        "name": "Сатпаев",
+        "city": "satpaev",
+        "popular": false
+      },
+      {
+        "name": "Талап (Карагандинская обл)",
+        "city": "talap_karagandinskaya_obl",
+        "popular": false
+      },
+      {
+        "name": "Темиртау",
+        "city": "temirtau",
+        "popular": false
+      },
+      {
+        "name": "Топар",
+        "city": "topar",
+        "popular": false
+      },
+      {
+        "name": "Улытау",
+        "city": "ulytau",
+        "popular": false
+      },
+      {
+        "name": "Шахтинск",
+        "city": "shaxtinsk",
+        "popular": false
+      },
+      {
+        "name": "Шашубай",
+        "city": "shashubai",
+        "popular": false
+      }
+    ]
+  },
+  {
+    "name": "Костанайская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Амангельды",
+        "city": "amangeldy",
+        "popular": false
+      },
+      {
+        "name": "Аманкарагай",
+        "city": "amankaragaj",
+        "popular": false
+      },
+      {
+        "name": "Аркалык",
+        "city": "arkalyk",
+        "popular": false
+      },
+      {
+        "name": "Аулиеколь",
+        "city": "auliekol",
+        "popular": false
+      },
+      {
+        "name": "Боровской",
+        "city": "borovskoi",
+        "popular": false
+      },
+      {
+        "name": "Денисовка",
+        "city": "denisovka",
+        "popular": false
+      },
+      {
+        "name": "Житикара",
+        "city": "jitikara",
+        "popular": false
+      },
+      {
+        "name": "Заречное",
+        "city": "zarechnoe",
+        "popular": false
+      },
+      {
+        "name": "Затобольск",
+        "city": "zatobolsk",
+        "popular": false
+      },
+      {
+        "name": "Камысты",
+        "city": "kamysty",
+        "popular": false
+      },
+      {
+        "name": "Карабалык (Карабалыкский р-н)",
+        "city": "karabalyk_karabalykskii_r-n",
+        "popular": false
+      },
+      {
+        "name": "Караменды",
+        "city": "karamendy",
+        "popular": false
+      },
+      {
+        "name": "Карасу",
+        "city": "karasu",
+        "popular": false
+      },
+      {
+        "name": "Качар",
+        "city": "kachar",
+        "popular": false
+      },
+      {
+        "name": "Костанай",
+        "city": "kostanai",
+        "popular": false
+      },
+      {
+        "name": "Лисаковск",
+        "city": "lisakovsk",
+        "popular": false
+      },
+      {
+        "name": "Надеждинка",
+        "city": "nadezhdinka",
+        "popular": false
+      },
+      {
+        "name": "Октябрьское",
+        "city": "oktyabrskoe",
+        "popular": false
+      },
+      {
+        "name": "Рудный",
+        "city": "rudnyi",
+        "popular": false
+      },
+      {
+        "name": "Сарыколь",
+        "city": "sarykol",
+        "popular": false
+      },
+      {
+        "name": "Тарановское",
+        "city": "taranovskoe",
+        "popular": false
+      },
+      {
+        "name": "Тобыл",
+        "city": "tobyl",
+        "popular": false
+      },
+      {
+        "name": "Торгай",
+        "city": "torgai",
+        "popular": false
+      },
+      {
+        "name": "Убаганское",
+        "city": "ubaganskoe",
+        "popular": false
+      },
+      {
+        "name": "Узунколь",
+        "city": "uzunkol",
+        "popular": false
+      },
+      {
+        "name": "Федоровка (Федоровский р-н)",
+        "city": "fedorovka_fedorovskii_r-n",
+        "popular": false
+      }
+    ]
+  },
+  {
+    "name": "Кызылординская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Айтеке би",
+        "city": "aiteke_bi",
+        "popular": false
+      },
+      {
+        "name": "Аральск",
+        "city": "aralsk",
+        "popular": false
+      },
+      {
+        "name": "Байконыр",
+        "city": "baikonyr",
+        "popular": false
+      },
+      {
+        "name": "Жалагаш",
+        "city": "jalagash",
+        "popular": false
+      },
+      {
+        "name": "Жанакорган",
+        "city": "janakorgan",
+        "popular": false
+      },
+      {
+        "name": "Жосалы",
+        "city": "josaly",
+        "popular": false
+      },
+      {
+        "name": "Казалинск",
+        "city": "kazalinsk",
+        "popular": false
+      },
+      {
+        "name": "Кызылорда",
+        "city": "kyzylorda",
+        "popular": false
+      },
+      {
+        "name": "Саксаульский",
+        "city": "saksaulskiy",
+        "popular": false
+      },
+      {
+        "name": "Теренозек",
+        "city": "terenozek",
+        "popular": false
+      },
+      {
+        "name": "Шиели",
+        "city": "shieli",
+        "popular": false
+      }
+    ]
+  },
+  {
+    "name": "Мангистауская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Актау",
+        "city": "aktau",
+        "popular": false
+      },
+      {
+        "name": "Акшукур",
+        "city": "akshukur",
+        "popular": false
+      },
+      {
+        "name": "Бейнеу",
+        "city": "beineu",
+        "popular": false
+      },
+      {
+        "name": "Жанаозен",
+        "city": "janaozen",
+        "popular": false
+      },
+      {
+        "name": "Жетыбай",
+        "city": "jetybai",
+        "popular": false
+      },
+      {
+        "name": "Курык",
+        "city": "kuryk",
+        "popular": false
+      },
+      {
+        "name": "Форт-Шевченко",
+        "city": "fort-shevchenko",
+        "popular": false
+      },
+      {
+        "name": "Шайыр",
+        "city": "shayir",
+        "popular": false
+      },
+      {
+        "name": "Шетпе",
+        "city": "shetpe",
+        "popular": false
+      }
+    ]
+  },
+  {
+    "name": "Павлодарская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Акку",
+        "city": "akku",
+        "popular": false
+      },
+      {
+        "name": "Аксу",
+        "city": "aksu",
+        "popular": false
+      },
+      {
+        "name": "Актогай",
+        "city": "aktogai",
+        "popular": false
+      },
+      {
+        "name": "Баянаул",
+        "city": "bayanaul",
+        "popular": false
+      },
+      {
+        "name": "Железинка",
+        "city": "jelezinka",
+        "popular": false
+      },
+      {
+        "name": "Иртышск",
+        "city": "irtyshsk",
+        "popular": false
+      },
+      {
+        "name": "Кашыр",
+        "city": "kashyr",
+        "popular": false
+      },
+      {
+        "name": "Коктобе",
+        "city": "koktobe",
+        "popular": false
+      },
+      {
+        "name": "Моисеевка",
+        "city": "moiseevka",
+        "popular": false
+      },
+      {
+        "name": "Павлодар",
+        "city": "pavlodar",
+        "popular": false
+      },
+      {
+        "name": "Успенка",
+        "city": "uspenka",
+        "popular": false
+      },
+      {
+        "name": "Черноярка",
+        "city": "chernojarka",
+        "popular": false
+      },
+      {
+        "name": "Шарбакты",
+        "city": "sharbakty",
+        "popular": false
+      },
+      {
+        "name": "Экибастуз",
+        "city": "ekibastuz",
+        "popular": false
+      }
+    ]
+  },
+  {
+    "name": "Северо-Казахстанская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Белоградовка",
+        "city": "belogradovka",
+        "popular": false
+      },
+      {
+        "name": "Бишкуль",
+        "city": "bishkul",
+        "popular": false
+      },
+      {
+        "name": "Булаево",
+        "city": "bulaevo",
+        "popular": false
+      },
+      {
+        "name": "Кишкенеколь",
+        "city": "kishkenekol",
+        "popular": false
+      },
+      {
+        "name": "Мамлютка",
+        "city": "mamlutka",
+        "popular": false
+      },
+      {
+        "name": "Новоишимский",
+        "city": "novoishimskii",
+        "popular": false
+      },
+      {
+        "name": "Петропавловск",
+        "city": "petropavlovsk",
+        "popular": false
+      },
+      {
+        "name": "Пресновка",
+        "city": "presnovka",
+        "popular": false
+      },
+      {
+        "name": "Саумалколь",
+        "city": "saumalkol",
+        "popular": false
+      },
+      {
+        "name": "Сергеевка",
+        "city": "sergeevka",
+        "popular": false
+      },
+      {
+        "name": "Смирново",
+        "city": "smirnovo",
+        "popular": false
+      },
+      {
+        "name": "Тайынша",
+        "city": "taiynsha",
+        "popular": false
+      },
+      {
+        "name": "Талшик",
+        "city": "talshik",
+        "popular": false
+      },
+      {
+        "name": "Тимирязево",
+        "city": "timiryazevo",
+        "popular": false
+      },
+      {
+        "name": "Чистополье",
+        "city": "chistopolie",
+        "popular": false
+      },
+      {
+        "name": "Чкалово",
+        "city": "chkalovo",
+        "popular": false
+      },
+      {
+        "name": "Явленка",
+        "city": "yavlenka",
+        "popular": false
+      }
+    ]
+  },
+  {
+    "name": "Туркестанская область",
+    "popular": false,
+    "cities": [
+      {
+        "name": "Абай (Келесский р-н)",
+        "city": "abai_kelesskii_r-n",
+        "popular": false
+      },
+      {
+        "name": "Аксукент",
+        "city": "aksukent",
+        "popular": false
+      },
+      {
+        "name": "Арысь",
+        "city": "arys",
+        "popular": false
+      },
+      {
+        "name": "Асыката",
+        "city": "asykata",
+        "popular": false
+      },
+      {
+        "name": "Атакент",
+        "city": "atakent",
+        "popular": false
+      },
+      {
+        "name": "Жетысай",
+        "city": "jetysai",
+        "popular": false
+      },
+      {
+        "name": "Казыгурт",
+        "city": "kazygurt",
+        "popular": false
+      },
+      {
+        "name": "Карабулак",
+        "city": "karabulak",
+        "popular": false
+      },
+      {
+        "name": "Кентау",
+        "city": "kentau",
+        "popular": false
+      },
+      {
+        "name": "Ленгер",
+        "city": "lenger",
+        "popular": false
+      },
+      {
+        "name": "Сарыагаш",
+        "city": "saryagash",
+        "popular": false
+      },
+      {
+        "name": "Темирлановка",
+        "city": "temirlanovka",
+        "popular": false
+      },
+      {
+        "name": "Турара Рыскулова",
+        "city": "turara_ryskulova",
+        "popular": false
+      },
+      {
+        "name": "Туркестан",
+        "city": "turkestan",
+        "popular": false
+      },
+      {
+        "name": "Шардара",
+        "city": "shardara",
+        "popular": false
+      },
+      {
+        "name": "Шаульдер",
+        "city": "shaulder",
+        "popular": false
+      },
+      {
+        "name": "Шаян",
+        "city": "shayan",
+        "popular": false
+      },
+      {
+        "name": "Шолаккорган",
+        "city": "sholakkorgan",
+        "popular": false
+      },
+      {
+        "name": "Шымкент",
+        "city": "shymkent",
+        "popular": true
+      }
+    ]
+  }
+]
